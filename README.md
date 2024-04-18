@@ -32,8 +32,8 @@ Define the display() function to print the output.
 
 ## Program :
 
-### DEVELOPED BY : Mohanish K
-### REG NO : 212222100028
+### DEVELOPED BY : Rohith r
+### REG NO : 212222230121
 ```
 using System;
 
